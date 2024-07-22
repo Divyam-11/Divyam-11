@@ -86,9 +86,8 @@
 <br/>  
 
 [![Innisfree-11's GitHub | Stats](https://stats.quira.sh/Innisfree-11/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Innisfree-11)
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+[![Innisfree-11's GitHub | Dependencies](https://stats.quira.sh/Innisfree-11/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Innisfree-11)
+[![Innisfree-11's GitHub | Languages Over Time](https://stats.quira.sh/Innisfree-11/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Innisfree-11)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
