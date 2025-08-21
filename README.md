@@ -11,7 +11,7 @@ Skills: Problem Creating, Critical Crashing, Data Destruction, Machine Forgettin
 ### 🐌 Productivity Meter
 ![](https://img.shields.io/badge/Productivity-0%25-critical)  
 ![](https://img.shields.io/badge/Bugs%20Introduced-∞-red)  
-![](https://img.shields.io/badge/StackOverflow%20Copy%20Paste-100%25-blue)
+![](https://img.shields.io/badge/Vibe%20-Coding%20-100%25-blue)
 
 ---
 
