@@ -1,15 +1,27 @@
+# 💻 Anti-Tech Stack:
+Skills: Problem Creating, Critical Crashing, Data Destruction, Machine Forgetting, Cloud Confusion, Cyber Insecurity, Version Chaos, Fragile Development, Team Sabotage, Rebugging, Tux Paint, Sticky Note
+---
 
 
-
-# 💻 Tech Stack:
-Skills: Problem Creating, Critical Crashing, Data Destruction, Machine Forgetting, Cloud Confusion, Cyber Insecurity, Version Chaos, Fragile Development, Team Sabotage, Rebugging
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Divyam-11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Least Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Divyam-11&limit=1&theme=radical&combine_all_yearly_contributions=false&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Divyam-11&icon=3&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐌 Productivity Meter
+![](https://img.shields.io/badge/Productivity-0%25-critical)  
+![](https://img.shields.io/badge/Bugs%20Introduced-∞-red)  
+![](https://img.shields.io/badge/StackOverflow%20Copy%20Paste-100%25-blue)
+
+---
+
+### 🧨 Current Projects
+- Breaking working code for no reason  
+- Turning stable builds into chaos  
+- Hosting apps on grandma’s Windows XP PC  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Divyam-11&icon=3&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly destroyed with GPRM ( https://gprm.itsvg.in ) -->
