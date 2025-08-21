@@ -2,7 +2,7 @@
 
 
 # 💻 Tech Stack:
-Tux Paint
+Skills: Tux Paint, MS Paint, Mario, Clippy, Notepad, Winamp, Solitaire, Minesweeper, Calculator, Paint 3D, Internet Explorer 6, TikTok Filters, PowerPoint Animations, Sticky Notes, WordArt, Windows Media Player
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
