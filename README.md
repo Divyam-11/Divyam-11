@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-Skills: Problem Creating, Critical Crashing, Data Destruction, Machine Forgetting, Cloud Confusion, Cyber Insecurity, Version Chaos, Fragile Development, Team Sabotage, Rebugging, Tux Paint, Sticky Note
+Skills: Problem Creating, Critical Crashing, Data Destruction, Machine Forgetting, Cloud Confusion, Cyber Insecurity, Version Chaos, Fragile Development, Team Sabotage, Rebugging, Tux Paint, Sticky Notes,Understood Interstellar 
 ---
 
 
