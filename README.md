@@ -2,7 +2,7 @@
 
 
 # 💻 Tech Stack:
-Skills: Tux Paint, MS Paint, Mario, Clippy, Notepad, Winamp, Solitaire, Minesweeper, Calculator, Paint 3D, Internet Explorer 6, TikTok Filters, PowerPoint Animations, Sticky Notes, WordArt, Windows Media Player
+Skills: Problem Creating, Critical Crashing, Data Destruction, Machine Forgetting, Cloud Confusion, Cyber Insecurity, Version Chaos, Fragile Development, Team Sabotage, Rebugging
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
