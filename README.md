@@ -1,27 +1,68 @@
-# 💻 Tech Stack:
-Skills: Problem Creating, Critical Crashing, Data Destruction, Machine Forgetting, Cloud Confusion, Cyber Insecurity, Version Chaos, Fragile Development, Team Sabotage, Rebugging, Tux Paint, Sticky Notes,Understood Interstellar 
----
+# Divyam-11
 
-
-### 🔝 Least Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Divyam-11&limit=1&theme=radical&combine_all_yearly_contributions=false&hide_border=true)
+> “This is a bad place to be alive. And yet, here we are — compiling.”
 
 ---
 
-### 🐌 Productivity Meter
-![](https://img.shields.io/badge/Productivity-0%25-critical)  
-![](https://img.shields.io/badge/Bugs%20Introduced-∞-red)  
-![](https://img.shields.io/badge/Vibe%20Coding-100%25-blue)
+## 💻 Tech Stack
+
+**Skills I actively misuse:**
+- Problem Creating  
+- Critical Crashing  
+- Data Destruction  
+- Machine Forgetting  
+- Cloud Confusion  
+- Cyber Insecurity  
+- Version Chaos  
+- Fragile Development  
+- Team Sabotage  
+- Rebugging (fixing bugs so they come back worse)  
+- Tux Paint (advanced)  
+- Sticky Notes (enterprise-grade)  
+- Understood Interstellar (briefly, then forgot)
+
+Nothing here scales. Nothing here lasts.
 
 ---
 
-### 🧨 Current Projects
+## 🔝 Least Contributed Repo
+
+The one with the most potential.  
+Abandoned quietly. Like everything else.
+
+---
+
+## 🐌 Productivity Meter
+
+Barely moving.  
+Occasionally backward.  
+Mostly observing time pass.
+
+---
+
+## 🧨 Current Projects
+
 - Breaking working code for no reason  
 - Turning stable builds into chaos  
 - Hosting apps on grandma’s Windows XP PC  
+- Asking *“why does this even work?”* and then fixing that
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Divyam-11&icon=3&color=9)](https://visitcount.itsvg.in)
+## 🕳️ Philosophy
 
-<!-- Proudly destroyed with GPRM ( https://gprm.itsvg.in ) -->
+Code doesn’t rot.  
+People do.  
+Repositories just document it.
+
+Every commit is a confession.  
+Every rollback is regret.
+
+---
+
+## 📉 Status
+
+Maintaining bugs so they don’t feel lonely.  
+Shipping entropy.  
+Waiting for the heat death of this repo.
+
